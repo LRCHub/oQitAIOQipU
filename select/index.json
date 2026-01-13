@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "おかげさま",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2026-01-13T06:49:58.873562Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おかげさま",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_おかげさま_SUPER_BEAVER.txt"
+    }
+  ]
+}
